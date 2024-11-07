@@ -31,12 +31,12 @@ To use Azure AD for authentication, you need to register two separate applicatio
 
 ### Steps for Azure AD Registration
 1. **Frontend App Registration**:
-    - Register an app called `React Frontend App`.
+    - Register a frontend app on Azure's App registration page.
     - Set up **Redirect URI** to `http://localhost:5173`.
     - Define permissions to allow communication with the backend API.
 
 2. **Backend App Registration**:
-    - Register another app called `FastAPI Backend App`.
+    - Register another app for the backend.
     - Expose an API and define scopes, e.g., `api://<client-id>/access_as_user`.
     - Set permissions for the frontend app to access the backend API.
 
@@ -80,7 +80,7 @@ To get this backend running locally, follow these steps:
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/ihsanlatheef/msal-backend.git]
+   git clone https://github.com/ihsanlatheef/msal-backend.git
    cd fastapi-msal-backend
    ```
 
@@ -102,7 +102,7 @@ To get this backend running locally, follow these steps:
    The application will start running on **http://127.0.0.1:8000**.
 
 ### .env File Setup
-Create a `.env` file to store sensitive configuration values such as **Client ID** and **Tenant ID**. This will make your development environment cleaner and safer.
+Eventhough, in this project there is no `.env` file, please create a `.env` file to store sensitive configuration values such as **Client ID** and **Tenant ID**. This will make your development environment cleaner and safer.
 
 ## Endpoints
 The backend has several endpoints, including a protected `/api/users` endpoint.
