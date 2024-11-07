@@ -80,7 +80,7 @@ To get this backend running locally, follow these steps:
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/fastapi-msal-backend.git
+   git clone [https://github.com/ihsanlatheef/msal-backend.git]
    cd fastapi-msal-backend
    ```
 
