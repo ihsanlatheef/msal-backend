@@ -1,0 +1,12 @@
+[
+  { "id": 1, "first_name": "Malinda", "last_name": "Linfoot", "email": "mlinfoot0@amazon.co.jp", "gender": "Female", "role": "Internal Auditor" },
+  { "id": 2, "first_name": "Kalindi", "last_name": "Gillebride", "email": "kgillebride1@shinystat.com", "gender": "Female", "role": "Structural Engineer" },
+  { "id": 3, "first_name": "Findley", "last_name": "Vedekhov", "email": "fvedekhov2@twitpic.com", "gender": "Male", "role": "Senior Editor" },
+  { "id": 4, "first_name": "Craig", "last_name": "Jerrome", "email": "cjerrome3@thetimes.co.uk", "gender": "Male", "role": "Desktop Support Technician" },
+  { "id": 5, "first_name": "Kay", "last_name": "Glisenan", "email": "kglisenan4@csmonitor.com", "gender": "Genderfluid", "role": "Computer Systems Analyst IV" },
+  { "id": 6, "first_name": "Fredrika", "last_name": "Schneidau", "email": "fschneidau5@apple.com", "gender": "Female", "role": "Senior Financial Analyst" },
+  { "id": 7, "first_name": "Fanchette", "last_name": "Shenley", "email": "fshenley6@livejournal.com", "gender": "Agender", "role": "Dental Hygienist" },
+  { "id": 8, "first_name": "Cloris", "last_name": "Whitwham", "email": "cwhitwham7@parallels.com", "gender": "Female", "role": "Administrative Assistant I" },
+  { "id": 9, "first_name": "Joachim", "last_name": "Habden", "email": "jhabden8@google.nl", "gender": "Male", "role": "Structural Engineer" },
+  { "id": 10, "first_name": "Sheelah", "last_name": "Bargh", "email": "sbargh9@patch.com", "gender": "Female", "role": "Occupational Therapist" }
+]
